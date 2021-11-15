@@ -3,7 +3,7 @@ public class EqualsK560 {
         int[] nums = {1,2,3};
         int k=3;
         int res = 0;
-        int sum = 0;
+        int sum;
         for(int i=0; i<nums.length; i++){
             sum = 0;
             for(int j=i; j<nums.length; j++){
