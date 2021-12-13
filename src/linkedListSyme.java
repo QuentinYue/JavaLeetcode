@@ -1,3 +1,4 @@
+//回文链表!!!!
 import java.util.Stack;
 
 public class linkedListSyme {
@@ -36,7 +37,7 @@ public class linkedListSyme {
         Node cur = head;
         Node right = head.next;
 
-        if(cur.next != null && cur.next.next != null){ //right 会指向中点 or 下中点(偶数个)
+        if(cur.next != null && cur.next.next != null){ //right 会指向中点 or 下中点(偶数个),奇数个则是中点后一个(因为判断回文不需要入栈中点)
             cur = cur.next.next;
             right = cur.next;
         }
