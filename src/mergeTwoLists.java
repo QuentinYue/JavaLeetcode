@@ -44,7 +44,7 @@ public class mergeTwoLists {
         ListNode next = null;
         ListNode pre = null; // 记录值小的节点
         while (cur1 != null && cur2 != null) {
-            if (cur1.val <= cur2.val) {
+            if (cur1.val <= cur2.val) {v
                 pre = cur1;
                 cur1 = cur1.next;
             }
