@@ -1,3 +1,4 @@
+/*
 package MajorityNumber2T;
 
 public class Mn229 {
@@ -68,3 +69,5 @@ class Solution {
         return res;
     }
 }
+
+ */

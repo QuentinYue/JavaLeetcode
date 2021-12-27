@@ -1,3 +1,4 @@
+/*
 import java.util.HashMap;
 
 public class EqualsK560M2 {
@@ -15,7 +16,9 @@ public class EqualsK560M2 {
                 map.put(sum, map.getOrDefault(sum,0)+1);
             }
 
-            return res;
+            //return res;
         }
     }
 }
+
+ */

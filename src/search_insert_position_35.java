@@ -1,3 +1,4 @@
+/*
 //S1:
 class Solution {
     public int searchInsert(int[] nums, int target) {
@@ -51,3 +52,5 @@ class Solution {
         return l;
     }
 }
+
+ */

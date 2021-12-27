@@ -1,3 +1,4 @@
+/*
 package MajorityNumber2T;
 
 //妙 0:
@@ -46,3 +47,5 @@ class Solution {
         return res;
     }
 }
+
+ */

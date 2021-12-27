@@ -1,3 +1,4 @@
+/*
 class Solution {
     public int rangeBitwiseAnd(int left, int right) {
 
@@ -13,3 +14,5 @@ class Solution {
         return left << count;
     }
 }
+
+ */
